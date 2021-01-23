@@ -8,5 +8,6 @@ function triplePi() {
   return pi * 3;
 }
 
+// only one export default per file
 export default pi;
 export { doublePi, triplePi };
