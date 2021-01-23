@@ -4,9 +4,9 @@ import pi from "./math";
 
 ReactDOM.render(
   <ul>
-    <li>1</li>
-    <li>2</li>
-    <li>3</li>
+    <li>{pi}</li>
+    <li>{pi}</li>
+    <li>{pi}</li>
   </ul>,
   document.getElementById("root")
 );
